@@ -1,0 +1,23 @@
+Area de rectángulos:
+
+Area de rectángulo de base 5 y altura 3 es: 15.
+Area de rectángulo de base 5 y altura 3 es: 15.
+
+Conversión de Grados: 
+    50 ---> 10°C
+    75 ---> 23.888°C
+
+Multiplicación:
+
+    El resultado de multiplicar 2*17*6 es: 204
+
+
+Promedios:
+
+    El promedio de 5, 7 y 9 es: 7
+    El promedio de -2, -3 y -8 es: -4.333333333333333
+    El promedio -1.2, 5.3 y -3.3 es: 0.2666666666666666
+
+Resta: 
+
+    El resultado de la resta de de 10 - 8 es: 8
