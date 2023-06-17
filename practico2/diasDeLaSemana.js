@@ -43,3 +43,4 @@ switch(numero){
 // let diasDeLaSemana = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo"];
 // let dia = diasDeLaSemana[entrada - 1];
 // console.log(`Hoy es ${dia}`);
+// Numa
